@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NqB9yJHz+xUKnWobu4jNu2UJObvzD6xoGUF7GzM6/YVlGn0SwirZAiodnIX/bMTc5khe3Ufi7QTlw1+sKpkjBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ACER\\OneDrive\\Desktop\\.Net Projeler\\RabbitMQ.FanoutExchange\\RabbitMQ.FanoutExchange.Consumer\\RabbitMQ.FanoutExchange.Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\rabbitmq.client\\6.7.0\\rabbitmq.client.6.7.0.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

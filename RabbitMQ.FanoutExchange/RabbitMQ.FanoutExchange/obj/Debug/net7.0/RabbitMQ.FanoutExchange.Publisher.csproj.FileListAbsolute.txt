@@ -1,0 +1,17 @@
+C:\Users\ACER\OneDrive\Desktop\.Net Projeler\RabbitMQ.FanoutExchange\RabbitMQ.FanoutExchange\bin\Debug\net7.0\RabbitMQ.FanoutExchange.Publisher.exe
+C:\Users\ACER\OneDrive\Desktop\.Net Projeler\RabbitMQ.FanoutExchange\RabbitMQ.FanoutExchange\bin\Debug\net7.0\RabbitMQ.FanoutExchange.Publisher.deps.json
+C:\Users\ACER\OneDrive\Desktop\.Net Projeler\RabbitMQ.FanoutExchange\RabbitMQ.FanoutExchange\bin\Debug\net7.0\RabbitMQ.FanoutExchange.Publisher.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\.Net Projeler\RabbitMQ.FanoutExchange\RabbitMQ.FanoutExchange\bin\Debug\net7.0\RabbitMQ.FanoutExchange.Publisher.dll
+C:\Users\ACER\OneDrive\Desktop\.Net Projeler\RabbitMQ.FanoutExchange\RabbitMQ.FanoutExchange\bin\Debug\net7.0\RabbitMQ.FanoutExchange.Publisher.pdb
+C:\Users\ACER\OneDrive\Desktop\.Net Projeler\RabbitMQ.FanoutExchange\RabbitMQ.FanoutExchange\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\ACER\OneDrive\Desktop\.Net Projeler\RabbitMQ.FanoutExchange\RabbitMQ.FanoutExchange\obj\Debug\net7.0\RabbitMQ.FanoutExchange.Publisher.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\.Net Projeler\RabbitMQ.FanoutExchange\RabbitMQ.FanoutExchange\obj\Debug\net7.0\RabbitMQ.FanoutExchange.Publisher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\.Net Projeler\RabbitMQ.FanoutExchange\RabbitMQ.FanoutExchange\obj\Debug\net7.0\RabbitMQ.FanoutExchange.Publisher.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\.Net Projeler\RabbitMQ.FanoutExchange\RabbitMQ.FanoutExchange\obj\Debug\net7.0\RabbitMQ.FanoutExchange.Publisher.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\.Net Projeler\RabbitMQ.FanoutExchange\RabbitMQ.FanoutExchange\obj\Debug\net7.0\RabbitMQ.FanoutExchange.Publisher.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\.Net Projeler\RabbitMQ.FanoutExchange\RabbitMQ.FanoutExchange\obj\Debug\net7.0\RabbitMQ.FanoutExchange.Publisher.csproj.CopyComplete
+C:\Users\ACER\OneDrive\Desktop\.Net Projeler\RabbitMQ.FanoutExchange\RabbitMQ.FanoutExchange\obj\Debug\net7.0\RabbitMQ.FanoutExchange.Publisher.dll
+C:\Users\ACER\OneDrive\Desktop\.Net Projeler\RabbitMQ.FanoutExchange\RabbitMQ.FanoutExchange\obj\Debug\net7.0\refint\RabbitMQ.FanoutExchange.Publisher.dll
+C:\Users\ACER\OneDrive\Desktop\.Net Projeler\RabbitMQ.FanoutExchange\RabbitMQ.FanoutExchange\obj\Debug\net7.0\RabbitMQ.FanoutExchange.Publisher.pdb
+C:\Users\ACER\OneDrive\Desktop\.Net Projeler\RabbitMQ.FanoutExchange\RabbitMQ.FanoutExchange\obj\Debug\net7.0\RabbitMQ.FanoutExchange.Publisher.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\.Net Projeler\RabbitMQ.FanoutExchange\RabbitMQ.FanoutExchange\obj\Debug\net7.0\ref\RabbitMQ.FanoutExchange.Publisher.dll
